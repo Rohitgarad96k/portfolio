@@ -1,0 +1,56 @@
+nav ,footer{
+    background-color: #1E293B;
+}
+
+
+body{
+    background-color: #f8fafc;
+}
+nav a{
+    color: white;
+    text-decoration: none;
+}
+
+.container{
+    padding: 0 5% ;
+}
+
+#about img{
+    height: 250px;
+}
+#skills .card{
+    border-radius: 1rem;
+    width: 10%;
+}
+
+#projects .card{
+    width: 25%;
+}
+
+.bg-pri{
+    background-color: #1E40AF;
+}
+
+.btn-primary{
+    background-color: #f59e0b;
+    padding: 0.5rem 1.5rem;
+    border-radius: 8px;
+}
+.btn-secondary{
+    background-color:transparent;
+    padding: 0.5rem 1.5rem;
+    border: 2px solid white;
+    border-radius: 8px;
+}
+.h-25{
+    min-height: 25vh;
+}
+.h-50{
+    min-height: 50vh;
+}
+.h-75{
+    min-height: 75vh;
+}
+.h-100{
+    min-height: 100vh;
+}
